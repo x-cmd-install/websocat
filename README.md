@@ -1,0 +1,6 @@
+---
+owner-repo: vi/websocat
+desc:   Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions 
+---
+
+# websocat
