@@ -7,7 +7,7 @@ about:
   head: 3a3574c
   archived: false
   latestVersion: v1.14.1
-  collectedAt: 2026-09-04T19:20:04Z
+  collectedAt: 2026-09-04T21:13:16Z
 timeline:
   created: 2016-11-23
   lastCommit: 2026-08-13
@@ -82,6 +82,39 @@ total:
   openIssue: 151
   commit: 754
 ---
+path: /home/runner/.x-repo/github.com/vi/websocat
+collectedAt: 2026-09-04T21:13:17Z
+loc:
+  Rust:
+    code: 10308
+    comments: 180
+    blanks: 1135
+    files: 41
+  Sh:
+    code: 219
+    comments: 3
+    blanks: 28
+    files: 3
+  Toml:
+    code: 80
+    comments: 13
+    blanks: 13
+    files: 1
+  Dockerfile:
+    code: 18
+    comments: 2
+    blanks: 9
+    files: 1
+  Markdown:
+    code: 0
+    comments: 1591
+    blanks: 889
+    files: 4
+total:
+  code: 10625
+  comments: 1975
+  blanks: 2084
+  files: 50
 ---
 date: "2026-08-24"
 repo:
