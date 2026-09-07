@@ -5,13 +5,13 @@ about:
   head: 3a3574c
   archived: false
   latestVersion: "v1.14.1"
-  collectedAt: 2026-09-07T05:11:50Z
+  collectedAt: 2026-09-07T19:13:45Z
 timeline:
   created: 2016-11-23
   lastCommit: 2026-08-13
   lastRelease: 2025-12-27
 popularity:
-  star: 8688
+  star: 8689
   watcher: 65
   fork: 330
   release: 28
@@ -81,7 +81,7 @@ total:
   commit: 754
 ---
 path: /home/runner/.x-repo/github.com/vi/websocat
-collectedAt: 2026-09-07T05:11:51Z
+collectedAt: 2026-09-07T19:13:45Z
 loc:
   Rust:
     code: 10308
@@ -224,7 +224,7 @@ checks:
       - 'Warn: 0 commits out of 16 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T05:11:52+00:00
+  collectedAt: 2026-09-07T19:13:46+00:00
   platform:
     darwin/arm64:
       name:  websocat.aarch64-apple-darwin
