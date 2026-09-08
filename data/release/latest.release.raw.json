@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 51862002,
       "digest": "sha256:48499b392b43acbb691783b7e53440c81a1cb3817d05c02706f12bb2ccdc55e9",
-      "download_count": 167,
+      "download_count": 170,
       "created_at": "2025-12-27T04:26:57Z",
       "updated_at": "2025-12-27T04:27:27Z",
       "browser_download_url": "https://github.com/vi/websocat/releases/download/v1.14.1/debug.7z"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 2823784,
       "digest": "sha256:c7402a1de17aa5446f86a7fe439cf502c49436c1f2df298c16fd8c2bf092a84e",
-      "download_count": 2026,
+      "download_count": 2029,
       "created_at": "2025-12-27T04:27:48Z",
       "updated_at": "2025-12-27T04:27:50Z",
       "browser_download_url": "https://github.com/vi/websocat/releases/download/v1.14.1/websocat.aarch64-apple-darwin"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 6248736,
       "digest": "sha256:711a69576a2ff473fb01a90ffafb571c2ed019e55479d7ae71b12c2eadeb7011",
-      "download_count": 8593,
+      "download_count": 8613,
       "created_at": "2025-12-27T04:27:35Z",
       "updated_at": "2025-12-27T04:27:39Z",
       "browser_download_url": "https://github.com/vi/websocat/releases/download/v1.14.1/websocat.aarch64-unknown-linux-musl"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 1990316,
       "digest": "sha256:2702144d6a5d25b0bf335aa3ec4123ebc126c4a208885593473475da7d20dd72",
-      "download_count": 393,
+      "download_count": 395,
       "created_at": "2025-12-27T04:27:39Z",
       "updated_at": "2025-12-27T04:27:40Z",
       "browser_download_url": "https://github.com/vi/websocat/releases/download/v1.14.1/websocat.arm-unknown-linux-musleabi"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 4812320,
       "digest": "sha256:9999abe0e3fe88081800b7d194458042b78ef3e1122881a8238d01aa5db4005b",
-      "download_count": 129,
+      "download_count": 130,
       "created_at": "2025-12-27T04:27:45Z",
       "updated_at": "2025-12-27T04:27:48Z",
       "browser_download_url": "https://github.com/vi/websocat/releases/download/v1.14.1/websocat.armv7-linux-androideabi"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 1889294,
       "digest": "sha256:06001c992fbbb5194ab162de6b47e9dad1dd8804c9840236a74fa72ea327f223",
-      "download_count": 2217,
+      "download_count": 2223,
       "created_at": "2025-12-27T04:27:52Z",
       "updated_at": "2025-12-27T04:27:54Z",
       "browser_download_url": "https://github.com/vi/websocat/releases/download/v1.14.1/websocat.i686-pc-windows-gnu.exe"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 2112604,
       "digest": "sha256:c484081dc39b703dcf835227b8b30e9db672f5a0a12ad158030316c3a00deed4",
-      "download_count": 815,
+      "download_count": 816,
       "created_at": "2025-12-27T04:27:55Z",
       "updated_at": "2025-12-27T04:27:57Z",
       "browser_download_url": "https://github.com/vi/websocat/releases/download/v1.14.1/websocat.i686-unknown-linux-musl"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 2903076,
       "digest": "sha256:45521ba59a6604785543406bf8e398ce7d565d54c09657176afba795dd28f191",
-      "download_count": 58364,
+      "download_count": 58365,
       "created_at": "2025-12-27T04:27:50Z",
       "updated_at": "2025-12-27T04:27:52Z",
       "browser_download_url": "https://github.com/vi/websocat/releases/download/v1.14.1/websocat.x86_64-apple-darwin"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 1929728,
       "digest": "sha256:284339b5b86f2b11496137d97b6705bb2ef27e64f21527c1ba240bdb6177ba3b",
-      "download_count": 4587,
+      "download_count": 4592,
       "created_at": "2025-12-27T04:27:54Z",
       "updated_at": "2025-12-27T04:27:55Z",
       "browser_download_url": "https://github.com/vi/websocat/releases/download/v1.14.1/websocat.x86_64-pc-windows-gnu.exe"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 7845504,
       "digest": "sha256:66f8dd3a0394761556339117f8bb5123bddefd44e087af2a72ec22b0bd08d514",
-      "download_count": 267005,
+      "download_count": 267861,
       "created_at": "2025-12-27T04:27:57Z",
       "updated_at": "2025-12-27T04:28:02Z",
       "browser_download_url": "https://github.com/vi/websocat/releases/download/v1.14.1/websocat.x86_64-unknown-linux-musl"
