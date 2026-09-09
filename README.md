@@ -7,7 +7,7 @@ Command-line client for WebSockets, like netcat (or curl) for ws:// with advance
 - **Latest release**: `v1.14.1` (2025-12-27)
 - **Last commit**: 2026-08-13
 - **License**: MIT
-- **Stars**: 8689 · **Forks**: 329 · **Open issues**: 259 · **Contributors**: 21
+- **Stars**: 8688 · **Forks**: 329 · **Open issues**: 259 · **Contributors**: 21
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/websocat> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T05:24:47Z._
+_Last regenerated: 2026-09-09T19:50:05Z._
