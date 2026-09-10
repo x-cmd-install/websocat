@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 2903076,
       "digest": "sha256:45521ba59a6604785543406bf8e398ce7d565d54c09657176afba795dd28f191",
-      "download_count": 58382,
+      "download_count": 58383,
       "created_at": "2025-12-27T04:27:50Z",
       "updated_at": "2025-12-27T04:27:52Z",
       "browser_download_url": "https://github.com/vi/websocat/releases/download/v1.14.1/websocat.x86_64-apple-darwin"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 7845504,
       "digest": "sha256:66f8dd3a0394761556339117f8bb5123bddefd44e087af2a72ec22b0bd08d514",
-      "download_count": 278487,
+      "download_count": 278653,
       "created_at": "2025-12-27T04:27:57Z",
       "updated_at": "2025-12-27T04:28:02Z",
       "browser_download_url": "https://github.com/vi/websocat/releases/download/v1.14.1/websocat.x86_64-unknown-linux-musl"
