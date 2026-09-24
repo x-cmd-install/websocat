@@ -4,7 +4,7 @@
 
 Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions
 
-[![x-cmd/install — websocat Code Quality Monitoring Repo Card](https://repo.x-cmd.io/websocat.svg?lang=zh)](https://x-cmd.com/install/websocat)
+[![x-cmd/install — websocat Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/websocat.svg?lang=zh)](https://x-cmd.com/install/websocat)
 
 ## 安装
 
@@ -30,9 +30,9 @@ x install websocat
 
 评分最低的几项:
 
-- **Packaging** (-1/10) — packaging workflow not detected
 - **Code-Review** (3/10) — Found 9/23 approved changesets -- score normalized to 3
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Packaging** (-1/10) — packaging workflow not detected
 
 ## 源代码
 
@@ -57,12 +57,12 @@ x install websocat
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last60d | 2026-07-24 | 0 | 0 | 0 | 1 | 2 | 1 |
-| 90d | 2026-06-24 | 0 | 1 | 0 | 1 | 2 | 3 |
-| last180d | 2026-03-26 | 0 | 1 | 0 | 2 | 2 | 3 |
-| 360d | 2025-09-27 | 2 | 1 | 0 | 3 | 7 | 6 |
-| last720d | 2024-10-02 | 5 | 10 | 0 | 9 | 24 | 36 |
+| 30d | 2026-08-25 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last60d | 2026-07-26 | 0 | 0 | 0 | 0 | 2 | 1 |
+| 90d | 2026-06-26 | 0 | 1 | 0 | 1 | 2 | 3 |
+| last180d | 2026-03-28 | 0 | 1 | 0 | 2 | 2 | 3 |
+| 360d | 2025-09-29 | 2 | 1 | 0 | 3 | 7 | 6 |
+| last720d | 2024-10-04 | 5 | 10 | 0 | 9 | 24 | 36 |
 
 ## Release 资产
 
@@ -92,4 +92,4 @@ websocat 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:42:05Z._
+_数据快照: `data/card/260924.yml` · 2026-09-24T05:23:32Z._
