@@ -31,8 +31,8 @@ x install websocat
 评分最低的几项:
 
 - **Code-Review** (3/10) — Found 9/23 approved changesets -- score normalized to 3
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## 源代码
 
@@ -47,7 +47,7 @@ x install websocat
 
 ## 流行度
 
-- **Star**: 8,708 · **Fork**: 330 · **开放 issue**: 260 · **贡献者**: 21
+- **Star**: 8,710 · **Fork**: 330 · **开放 issue**: 260 · **贡献者**: 21
 
 ## 累计统计
 
@@ -57,12 +57,12 @@ x install websocat
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-07 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last60d | 2026-08-08 | 0 | 0 | 0 | 0 | 2 | 1 |
-| 90d | 2026-07-09 | 0 | 1 | 0 | 1 | 2 | 3 |
-| last180d | 2026-04-10 | 0 | 1 | 0 | 1 | 2 | 3 |
-| 360d | 2025-10-12 | 2 | 1 | 0 | 2 | 7 | 6 |
-| last720d | 2024-10-17 | 5 | 9 | 0 | 9 | 21 | 34 |
+| 30d | 2026-09-08 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last60d | 2026-08-09 | 0 | 0 | 0 | 0 | 2 | 1 |
+| 90d | 2026-07-10 | 0 | 1 | 0 | 1 | 2 | 3 |
+| last180d | 2026-04-11 | 0 | 1 | 0 | 1 | 2 | 3 |
+| 360d | 2025-10-13 | 2 | 1 | 0 | 2 | 7 | 6 |
+| last720d | 2024-10-18 | 5 | 9 | 0 | 9 | 21 | 34 |
 
 ## Release 资产
 
@@ -92,4 +92,4 @@ websocat 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261007.yml` · 2026-10-07T06:39:51Z._
+_数据快照: `data/card/261008.yml` · 2026-10-08T06:45:39Z._
