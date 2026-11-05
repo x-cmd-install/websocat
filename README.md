@@ -26,13 +26,13 @@ Total: **10,625** lines of code across **50** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **3.2 / 10**
+Overall score: **3.1 / 10**
 
 Lowest-scoring checks:
 
+- **Maintained** (3/10) — 1 commit(s) and 3 issue activity found in the last 90 days -- score normalized to 3
 - **Code-Review** (3/10) — Found 9/23 approved changesets -- score normalized to 3
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
 
@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 8,742 · **Forks**: 335 · **Open issues**: 260 · **Contributors**: 21
+- **Stars**: 8,747 · **Forks**: 335 · **Open issues**: 260 · **Contributors**: 21
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 0 | 0 | 2 | 0 | 0 | 0 |
-| last60d | 2026-09-05 | 0 | 0 | 2 | 0 | 1 | 0 |
-| 90d | 2026-08-06 | 0 | 0 | 2 | 0 | 2 | 1 |
-| last180d | 2026-05-08 | 0 | 1 | 2 | 1 | 2 | 3 |
-| 360d | 2025-11-09 | 2 | 1 | 2 | 2 | 6 | 6 |
-| last720d | 2024-11-14 | 3 | 6 | 2 | 8 | 18 | 22 |
+| 30d | 2026-10-06 | 0 | 0 | 2 | 0 | 0 | 0 |
+| last60d | 2026-09-06 | 0 | 0 | 2 | 0 | 1 | 0 |
+| 90d | 2026-08-07 | 0 | 0 | 2 | 0 | 2 | 1 |
+| last180d | 2026-05-09 | 0 | 1 | 2 | 1 | 2 | 3 |
+| 360d | 2025-11-10 | 2 | 1 | 2 | 2 | 6 | 6 |
+| last720d | 2024-11-15 | 3 | 6 | 2 | 8 | 18 | 22 |
 
 ## Release assets
 
@@ -85,7 +85,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **36** distros on [repology.org](https://repology.org/project/websocat). **15** are ✅ on the latest upstream release, **16** are ⚠️ on an older version.
+Reported by **37** distros on [repology.org](https://repology.org/project/websocat). **16** are ✅ on the latest upstream release, **16** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -104,4 +104,4 @@ Install metadata for websocat lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T06:57:37Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T07:23:07Z._
