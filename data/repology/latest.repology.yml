@@ -1,38 +1,43 @@
-- repo: scoop
-  subrepo: main
-  binname: websocat
-  visiblename: websocat
-  version: 1.14.1
+- repo: liguros_stable
+  srcname: net-misc/websocat
+  visiblename: net-misc/websocat
+  version: 1.12.0
   origversion: null
-  status: newest
-  licenses:
-    - MIT
-- repo: alpine_3_22
-  subrepo: community
-  srcname: websocat
-  binname: websocat
-  visiblename: websocat
-  version: 1.14.0
-  origversion: 1.14.0-r1
-  status: outdated
-  summary: Netcat, curl and socat for WebSockets
+  status: legacy
+  summary: Command-line client for WebSockets, like netcat, with socat-like functions
   maintainers:
-    - oliver@schinagl.nl
+    - dev@liguros.net
+    - zmedico@gentoo.org
   licenses:
     - MIT
-- repo: alpine_3_23
-  subrepo: community
-  srcname: websocat
-  binname: websocat
-  visiblename: websocat
-  version: 1.14.0
-  origversion: 1.14.0-r1
-  status: outdated
-  summary: Netcat, curl and socat for WebSockets
+    - Apache-2.0
+    - Apache-2.0-with-LLVM-exceptions
+    - BSD
+    - BSD-2
+    - ISC
+    - Unlicense
+  categories:
+    - net-misc
+- repo: liguros_stable
+  srcname: net-misc/websocat
+  visiblename: net-misc/websocat
+  version: 1.13.0
+  origversion: null
+  status: legacy
+  summary: Command-line client for WebSockets, like netcat, with socat-like functions
   maintainers:
-    - oliver@schinagl.nl
+    - dev@liguros.net
+    - zmedico@gentoo.org
   licenses:
     - MIT
+    - Apache-2.0
+    - Apache-2.0-with-LLVM-exceptions
+    - BSD
+    - BSD-2
+    - ISC
+    - Unlicense
+  categories:
+    - net-misc
 - repo: alpine_3_17
   subrepo: community
   srcname: websocat
@@ -92,6 +97,32 @@
   visiblename: websocat
   version: 1.13.0
   origversion: 1.13.0-r0
+  status: outdated
+  summary: Netcat, curl and socat for WebSockets
+  maintainers:
+    - oliver@schinagl.nl
+  licenses:
+    - MIT
+- repo: alpine_3_22
+  subrepo: community
+  srcname: websocat
+  binname: websocat
+  visiblename: websocat
+  version: 1.14.0
+  origversion: 1.14.0-r1
+  status: outdated
+  summary: Netcat, curl and socat for WebSockets
+  maintainers:
+    - oliver@schinagl.nl
+  licenses:
+    - MIT
+- repo: alpine_3_23
+  subrepo: community
+  srcname: websocat
+  binname: websocat
+  visiblename: websocat
+  version: 1.14.0
+  origversion: 1.14.0-r1
   status: outdated
   summary: Netcat, curl and socat for WebSockets
   maintainers:
@@ -274,46 +305,6 @@
     - Unicode-DFS-2016
   categories:
     - net-misc
-- repo: liguros_stable
-  srcname: net-misc/websocat
-  visiblename: net-misc/websocat
-  version: 1.12.0
-  origversion: null
-  status: legacy
-  summary: Command-line client for WebSockets, like netcat, with socat-like functions
-  maintainers:
-    - dev@liguros.net
-    - zmedico@gentoo.org
-  licenses:
-    - MIT
-    - Apache-2.0
-    - Apache-2.0-with-LLVM-exceptions
-    - BSD
-    - BSD-2
-    - ISC
-    - Unlicense
-  categories:
-    - net-misc
-- repo: liguros_stable
-  srcname: net-misc/websocat
-  visiblename: net-misc/websocat
-  version: 1.13.0
-  origversion: null
-  status: legacy
-  summary: Command-line client for WebSockets, like netcat, with socat-like functions
-  maintainers:
-    - dev@liguros.net
-    - zmedico@gentoo.org
-  licenses:
-    - MIT
-    - Apache-2.0
-    - Apache-2.0-with-LLVM-exceptions
-    - BSD
-    - BSD-2
-    - ISC
-    - Unlicense
-  categories:
-    - net-misc
 - repo: macports
   srcname: net/websocat
   binname: websocat
@@ -333,9 +324,9 @@
   srcname: websocat
   binname: websocat
   visiblename: websocat
-  version: 1.11.0
-  origversion: 1.11.0-1
-  status: outdated
+  version: 1.14.1
+  origversion: 1.14.1-2
+  status: newest
   summary: Command-line client for web sockets, like netcat/curl/socat for ws://
   licenses:
     - MIT
@@ -344,9 +335,9 @@
   srcname: websocat
   binname: websocat
   visiblename: websocat
-  version: 1.11.0
-  origversion: 1.11.0-1
-  status: outdated
+  version: 1.14.1
+  origversion: 1.14.1-2
+  status: newest
   summary: Command-line client for web sockets, like netcat/curl/socat for ws://
   licenses:
     - MIT
@@ -450,6 +441,15 @@
   status: newest
   licenses:
     - MIT AND unknown
+- repo: scoop
+  subrepo: main
+  binname: websocat
+  visiblename: websocat
+  version: 1.14.1
+  origversion: null
+  status: newest
+  licenses:
+    - MIT
 - repo: termux
   srcname: websocat
   binname: websocat
