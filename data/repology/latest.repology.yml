@@ -1,43 +1,12 @@
-- repo: liguros_stable
-  srcname: net-misc/websocat
-  visiblename: net-misc/websocat
-  version: 1.12.0
+- repo: scoop
+  subrepo: main
+  binname: websocat
+  visiblename: websocat
+  version: 1.14.1
   origversion: null
-  status: legacy
-  summary: Command-line client for WebSockets, like netcat, with socat-like functions
-  maintainers:
-    - dev@liguros.net
-    - zmedico@gentoo.org
+  status: newest
   licenses:
     - MIT
-    - Apache-2.0
-    - Apache-2.0-with-LLVM-exceptions
-    - BSD
-    - BSD-2
-    - ISC
-    - Unlicense
-  categories:
-    - net-misc
-- repo: liguros_stable
-  srcname: net-misc/websocat
-  visiblename: net-misc/websocat
-  version: 1.13.0
-  origversion: null
-  status: legacy
-  summary: Command-line client for WebSockets, like netcat, with socat-like functions
-  maintainers:
-    - dev@liguros.net
-    - zmedico@gentoo.org
-  licenses:
-    - MIT
-    - Apache-2.0
-    - Apache-2.0-with-LLVM-exceptions
-    - BSD
-    - BSD-2
-    - ISC
-    - Unlicense
-  categories:
-    - net-misc
 - repo: alpine_3_17
   subrepo: community
   srcname: websocat
@@ -228,45 +197,8 @@
   srcname: net-misc/websocat
   visiblename: net-misc/websocat
   version: 1.14.1
-  origversion: null
+  origversion: 1.14.1-r1
   status: newest
-  summary: Command-line client for WebSockets, like netcat, with socat-like functions
-  maintainers:
-    - zmedico@gentoo.org
-  licenses:
-    - MIT
-    - Apache-2.0
-    - BSD-2
-    - BSD
-    - ISC
-    - Unicode-DFS-2016
-  categories:
-    - net-misc
-- repo: gentoo
-  srcname: net-misc/websocat
-  visiblename: net-misc/websocat
-  version: 1.13.0
-  origversion: 1.13.0-r1
-  status: legacy
-  summary: Command-line client for WebSockets, like netcat, with socat-like functions
-  maintainers:
-    - zmedico@gentoo.org
-  licenses:
-    - MIT
-    - Apache-2.0
-    - Apache-2.0-with-LLVM-exceptions
-    - BSD-2
-    - BSD
-    - ISC
-    - Unicode-DFS-2016
-  categories:
-    - net-misc
-- repo: gentoo
-  srcname: net-misc/websocat
-  visiblename: net-misc/websocat
-  version: 1.14.0
-  origversion: null
-  status: legacy
   summary: Command-line client for WebSockets, like netcat, with socat-like functions
   maintainers:
     - zmedico@gentoo.org
@@ -303,6 +235,46 @@
     - BSD
     - ISC
     - Unicode-DFS-2016
+  categories:
+    - net-misc
+- repo: liguros_stable
+  srcname: net-misc/websocat
+  visiblename: net-misc/websocat
+  version: 1.12.0
+  origversion: null
+  status: legacy
+  summary: Command-line client for WebSockets, like netcat, with socat-like functions
+  maintainers:
+    - dev@liguros.net
+    - zmedico@gentoo.org
+  licenses:
+    - MIT
+    - Apache-2.0
+    - Apache-2.0-with-LLVM-exceptions
+    - BSD
+    - BSD-2
+    - ISC
+    - Unlicense
+  categories:
+    - net-misc
+- repo: liguros_stable
+  srcname: net-misc/websocat
+  visiblename: net-misc/websocat
+  version: 1.13.0
+  origversion: null
+  status: legacy
+  summary: Command-line client for WebSockets, like netcat, with socat-like functions
+  maintainers:
+    - dev@liguros.net
+    - zmedico@gentoo.org
+  licenses:
+    - MIT
+    - Apache-2.0
+    - Apache-2.0-with-LLVM-exceptions
+    - BSD
+    - BSD-2
+    - ISC
+    - Unlicense
   categories:
     - net-misc
 - repo: macports
@@ -414,12 +386,13 @@
 - repo: nix_unstable
   srcname: websocat
   visiblename: websocat
-  version: 1.14.0
+  version: 1.14.1
   origversion: null
-  status: outdated
+  status: newest
   summary: Command-line client for WebSockets (like netcat/socat)
   maintainers:
     - aseipp@pobox.com
+    - kybe@kybe.xyz
   licenses:
     - MIT
 - repo: parabola
@@ -441,15 +414,6 @@
   status: newest
   licenses:
     - MIT AND unknown
-- repo: scoop
-  subrepo: main
-  binname: websocat
-  visiblename: websocat
-  version: 1.14.1
-  origversion: null
-  status: newest
-  licenses:
-    - MIT
 - repo: termux
   srcname: websocat
   binname: websocat
