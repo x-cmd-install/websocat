@@ -57,12 +57,12 @@ x install websocat
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 0 | 0 | 2 | 0 | 0 | 0 |
-| last60d | 2026-09-08 | 0 | 0 | 2 | 0 | 1 | 0 |
-| 90d | 2026-08-09 | 0 | 0 | 2 | 0 | 2 | 1 |
-| last180d | 2026-05-11 | 0 | 1 | 2 | 1 | 2 | 3 |
-| 360d | 2025-11-12 | 2 | 1 | 2 | 2 | 6 | 6 |
-| last720d | 2024-11-17 | 3 | 6 | 2 | 8 | 18 | 22 |
+| 30d | 2026-10-09 | 0 | 0 | 2 | 0 | 0 | 0 |
+| last60d | 2026-09-09 | 0 | 0 | 2 | 0 | 1 | 0 |
+| 90d | 2026-08-10 | 0 | 0 | 2 | 0 | 2 | 1 |
+| last180d | 2026-05-12 | 0 | 1 | 2 | 1 | 2 | 3 |
+| 360d | 2025-11-13 | 2 | 1 | 2 | 2 | 6 | 6 |
+| last720d | 2024-11-18 | 3 | 6 | 2 | 8 | 18 | 22 |
 
 ## Release 资产
 
@@ -85,13 +85,13 @@ x install websocat
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/websocat) 上共有 **37** 个发行版报告此项目。**18** 个 ✅ 已是最新上游版本，**14** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/websocat) 上共有 **35** 个发行版报告此项目。**19** 个 ✅ 已是最新上游版本，**13** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
 | Arch | `1.14.1` | ✅ latest |
 | Homebrew | `1.14.1` | ✅ latest |
-| Nix unstable | `1.14.0` | ⚠️ outdated |
+| Nix unstable | `1.14.1` | ✅ latest |
 | Void | `1.14.1` | ✅ latest |
 | Alpine edge | `1.14.1` | ✅ latest |
 
@@ -104,4 +104,4 @@ websocat 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261107.yml` · 2026-11-07T06:37:01Z._
+_数据快照: `data/card/261108.yml` · 2026-11-08T06:35:14Z._
