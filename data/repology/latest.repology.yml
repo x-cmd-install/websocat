@@ -1,3 +1,10 @@
+- repo: homebrew
+  srcname: websocat
+  visiblename: websocat
+  version: 1.14.1
+  origversion: null
+  status: newest
+  summary: Command-line client for WebSockets
 - repo: scoop
   subrepo: main
   binname: websocat
@@ -146,17 +153,6 @@
   binname: websocat
   visiblename: websocat
   version: 1.14.1
-  origversion: 1.14.1-2
-  status: newest
-  summary: Command-line client for web sockets, like netcat/curl/socat for ws://
-  licenses:
-    - MIT
-- repo: arch_testing
-  subrepo: extra-testing
-  srcname: websocat
-  binname: websocat
-  visiblename: websocat
-  version: 1.14.1
   origversion: 1.14.1-4
   status: newest
   summary: Command-line client for web sockets, like netcat/curl/socat for ws://
@@ -211,13 +207,6 @@
     - Unicode-DFS-2016
   categories:
     - net-misc
-- repo: homebrew
-  srcname: websocat
-  visiblename: websocat
-  version: 1.14.1
-  origversion: null
-  status: newest
-  summary: Command-line client for WebSockets
 - repo: liguros_stable
   srcname: net-misc/websocat
   visiblename: net-misc/websocat
@@ -319,7 +308,7 @@
   binname: websocat
   visiblename: websocat
   version: 1.14.1
-  origversion: 1.14.1-2
+  origversion: 1.14.1-4
   status: newest
   summary: Command-line client for web sockets, like netcat/curl/socat for ws://
   licenses:
