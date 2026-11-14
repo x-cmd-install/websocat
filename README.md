@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 8,757 · **Forks**: 335 · **Open issues**: 261 · **Contributors**: 23
+- **Stars**: 8,756 · **Forks**: 337 · **Open issues**: 261 · **Contributors**: 23
 
 ## Totals (cumulative)
 
-- **Releases**: 29 · **Merged PRs**: 31 · **Open PRs**: 7 · **Closed issues**: 111 · **Open issues**: 150 · **Commits**: 763
+- **Releases**: 29 · **Merged PRs**: 32 · **Open PRs**: 9 · **Closed issues**: 111 · **Open issues**: 150 · **Commits**: 763
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-14 | 1 | 2 | 0 | 0 | 1 | 6 |
-| last60d | 2026-09-14 | 1 | 2 | 0 | 0 | 1 | 6 |
-| 90d | 2026-08-15 | 1 | 2 | 0 | 0 | 2 | 6 |
-| last180d | 2026-05-17 | 1 | 3 | 0 | 1 | 3 | 9 |
-| 360d | 2025-11-18 | 3 | 3 | 0 | 2 | 7 | 12 |
-| last720d | 2024-11-23 | 4 | 8 | 0 | 8 | 18 | 31 |
+| 30d | 2026-10-15 | 1 | 3 | 2 | 0 | 1 | 6 |
+| last60d | 2026-09-15 | 1 | 3 | 2 | 0 | 1 | 6 |
+| 90d | 2026-08-16 | 1 | 3 | 2 | 0 | 2 | 6 |
+| last180d | 2026-05-18 | 1 | 4 | 2 | 1 | 3 | 9 |
+| 360d | 2025-11-19 | 3 | 4 | 2 | 2 | 7 | 12 |
+| last720d | 2024-11-24 | 4 | 9 | 2 | 8 | 18 | 31 |
 
 ## Release assets
 
@@ -106,4 +106,4 @@ Install metadata for websocat lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261113.yml` · 2026-11-13T07:32:35Z._
+_Snapshot: `data/card/261114.yml` · 2026-11-14T07:17:52Z._
