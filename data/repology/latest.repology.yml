@@ -1,23 +1,61 @@
-- repo: liguros_stable
-  srcname: net-misc/websocat
-  visiblename: net-misc/websocat
+- repo: nix_stable_24_05
+  srcname: websocat
+  visiblename: websocat
   version: 1.13.0
   origversion: null
-  status: legacy
-  summary: Command-line client for WebSockets, like netcat, with socat-like functions
+  status: outdated
+  summary: Command-line client for WebSockets (like netcat/socat)
   maintainers:
-    - dev@liguros.net
-    - zmedico@gentoo.org
+    - aseipp@pobox.com
+    - brightone@protonmail.com
   licenses:
     - MIT
-    - Apache-2.0
-    - Apache-2.0-with-LLVM-exceptions
-    - BSD
-    - BSD-2
-    - ISC
-    - Unlicense
+- repo: nix_stable_24_11
+  srcname: websocat
+  visiblename: websocat
+  version: 1.13.0
+  origversion: null
+  status: outdated
+  summary: Command-line client for WebSockets (like netcat/socat)
+  maintainers:
+    - aseipp@pobox.com
+    - brightone@protonmail.com
+  licenses:
+    - MIT
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: websocat
+  binname: websocat
+  visiblename: websocat
+  version: 1.14.1
+  origversion: 1.14.1-2
+  status: outdated
+  summary: Command-line client for web sockets, like netcat/curl/socat for ws://
+  licenses:
+    - MIT
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: websocat
+  binname: websocat
+  visiblename: websocat
+  version: 1.14.1
+  origversion: 1.14.1-4
+  status: outdated
+  summary: Command-line client for web sockets, like netcat/curl/socat for ws://
+  licenses:
+    - MIT
+- repo: freebsd
+  srcname: www/websocat
+  binname: websocat
+  visiblename: www/websocat
+  version: 1.14.1
+  origversion: 1.14.1_7
+  status: outdated
+  summary: WebSockets tools
+  maintainers:
+    - osa@freebsd.org
   categories:
-    - net-misc
+    - www
 - repo: alpine_3_17
   subrepo: community
   srcname: websocat
@@ -195,18 +233,6 @@
   origversion: null
   status: devel
   summary: Command-line client for web sockets, like netcat/curl/socat for ws://.
-- repo: freebsd
-  srcname: www/websocat
-  binname: websocat
-  visiblename: www/websocat
-  version: 1.14.1
-  origversion: 1.14.1_7
-  status: outdated
-  summary: WebSockets tools
-  maintainers:
-    - osa@freebsd.org
-  categories:
-    - www
 - repo: gentoo
   srcname: net-misc/websocat
   visiblename: net-misc/websocat
@@ -228,9 +254,9 @@
 - repo: homebrew
   srcname: websocat
   visiblename: websocat
-  version: 1.14.1
+  version: 1.14.2
   origversion: null
-  status: outdated
+  status: newest
   summary: Command-line client for WebSockets
 - repo: liguros_stable
   srcname: net-misc/websocat
@@ -271,6 +297,26 @@
     - Unlicense
   categories:
     - net-misc
+- repo: liguros_stable
+  srcname: net-misc/websocat
+  visiblename: net-misc/websocat
+  version: 1.13.0
+  origversion: null
+  status: legacy
+  summary: Command-line client for WebSockets, like netcat, with socat-like functions
+  maintainers:
+    - dev@liguros.net
+    - zmedico@gentoo.org
+  licenses:
+    - MIT
+    - Apache-2.0
+    - Apache-2.0-with-LLVM-exceptions
+    - BSD
+    - BSD-2
+    - ISC
+    - Unlicense
+  categories:
+    - net-misc
 - repo: macports
   srcname: net/websocat
   binname: websocat
@@ -294,52 +340,6 @@
   origversion: 1.14.1-2
   status: outdated
   summary: Command-line client for web sockets, like netcat/curl/socat for ws://
-  licenses:
-    - MIT
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: websocat
-  binname: websocat
-  visiblename: websocat
-  version: 1.14.1
-  origversion: 1.14.1-2
-  status: outdated
-  summary: Command-line client for web sockets, like netcat/curl/socat for ws://
-  licenses:
-    - MIT
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: websocat
-  binname: websocat
-  visiblename: websocat
-  version: 1.14.1
-  origversion: 1.14.1-4
-  status: outdated
-  summary: Command-line client for web sockets, like netcat/curl/socat for ws://
-  licenses:
-    - MIT
-- repo: nix_stable_24_05
-  srcname: websocat
-  visiblename: websocat
-  version: 1.13.0
-  origversion: null
-  status: outdated
-  summary: Command-line client for WebSockets (like netcat/socat)
-  maintainers:
-    - aseipp@pobox.com
-    - brightone@protonmail.com
-  licenses:
-    - MIT
-- repo: nix_stable_24_11
-  srcname: websocat
-  visiblename: websocat
-  version: 1.13.0
-  origversion: null
-  status: outdated
-  summary: Command-line client for WebSockets (like netcat/socat)
-  maintainers:
-    - aseipp@pobox.com
-    - brightone@protonmail.com
   licenses:
     - MIT
 - repo: nix_stable_25_05
