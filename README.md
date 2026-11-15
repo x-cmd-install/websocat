@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.14.2` (2026-11-12)
-- **Last commit**: 2026-11-12
+- **Last commit**: 2026-11-14
 - **Assets in release**: 16
 
 ## Popularity
 
-- **Stars**: 8,756 · **Forks**: 337 · **Open issues**: 261 · **Contributors**: 23
+- **Stars**: 8,756 · **Forks**: 336 · **Open issues**: 261 · **Contributors**: 24
 
 ## Totals (cumulative)
 
-- **Releases**: 29 · **Merged PRs**: 32 · **Open PRs**: 9 · **Closed issues**: 111 · **Open issues**: 150 · **Commits**: 763
+- **Releases**: 29 · **Merged PRs**: 33 · **Open PRs**: 8 · **Closed issues**: 111 · **Open issues**: 150 · **Commits**: 765
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-15 | 1 | 3 | 2 | 0 | 1 | 6 |
-| last60d | 2026-09-15 | 1 | 3 | 2 | 0 | 1 | 6 |
-| 90d | 2026-08-16 | 1 | 3 | 2 | 0 | 2 | 6 |
-| last180d | 2026-05-18 | 1 | 4 | 2 | 1 | 3 | 9 |
-| 360d | 2025-11-19 | 3 | 4 | 2 | 2 | 7 | 12 |
-| last720d | 2024-11-24 | 4 | 9 | 2 | 8 | 18 | 31 |
+| 30d | 2026-10-16 | 1 | 4 | 1 | 0 | 1 | 7 |
+| last60d | 2026-09-16 | 1 | 4 | 1 | 0 | 1 | 7 |
+| 90d | 2026-08-17 | 1 | 4 | 1 | 0 | 2 | 7 |
+| last180d | 2026-05-19 | 1 | 5 | 1 | 1 | 3 | 10 |
+| 360d | 2025-11-20 | 3 | 5 | 1 | 2 | 7 | 13 |
+| last720d | 2024-11-25 | 4 | 10 | 1 | 8 | 18 | 33 |
 
 ## Release assets
 
@@ -87,12 +87,12 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **36** distros on [repology.org](https://repology.org/project/websocat). **6** are ✅ on the latest upstream release, **26** are ⚠️ on an older version.
+Reported by **36** distros on [repology.org](https://repology.org/project/websocat). **7** are ✅ on the latest upstream release, **25** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Arch | `1.14.1` | ⚠️ outdated |
-| Homebrew | `1.14.1` | ⚠️ outdated |
+| Homebrew | `1.14.2` | ✅ latest |
 | Nix unstable | `1.14.2` | ✅ latest |
 | Void | `1.14.1` | ⚠️ outdated |
 | Alpine edge | `1.14.1` | ⚠️ outdated |
@@ -106,4 +106,4 @@ Install metadata for websocat lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261114.yml` · 2026-11-14T07:17:52Z._
+_Snapshot: `data/card/261115.yml` · 2026-11-15T07:12:57Z._
