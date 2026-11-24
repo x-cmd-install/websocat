@@ -1,25 +1,22 @@
-- repo: nix_stable_25_05
-  srcname: websocat
+- repo: scoop
+  subrepo: main
+  binname: websocat
   visiblename: websocat
-  version: 1.14.0
+  version: 1.14.2
   origversion: null
-  status: outdated
-  summary: Command-line client for WebSockets (like netcat/socat)
-  maintainers:
-    - aseipp@pobox.com
-    - brightone@protonmail.com
+  status: newest
   licenses:
     - MIT
-- repo: nix_stable_25_11
-  srcname: websocat
-  visiblename: websocat
-  version: 1.14.0
-  origversion: null
-  status: outdated
-  summary: Command-line client for WebSockets (like netcat/socat)
+- repo: aur
+  srcname: websocat-git
+  binname: websocat-git
+  visiblename: websocat-git
+  version: 1.11.0.r17.g6e0d42e
+  origversion: 1.11.0.r17.g6e0d42e-1
+  status: rolling
+  summary: Command-line client for WebSockets
   maintainers:
-    - aseipp@pobox.com
-    - brightone@protonmail.com
+    - m3thodic@aur
   licenses:
     - MIT
 - repo: alpine_3_17
@@ -166,18 +163,6 @@
   summary: Command-line client for web sockets, like netcat/curl/socat for ws://
   licenses:
     - MIT
-- repo: aur
-  srcname: websocat-git
-  binname: websocat-git
-  visiblename: websocat-git
-  version: 1.11.0.r17.g6e0d42e
-  origversion: 1.11.0.r17.g6e0d42e-1
-  status: rolling
-  summary: Command-line client for WebSockets
-  maintainers:
-    - m3thodic@aur
-  licenses:
-    - MIT
 - repo: chocolatey
   binname: websocat
   visiblename: Websocat (Portable)
@@ -315,7 +300,7 @@
   binname: websocat
   visiblename: websocat
   version: 1.14.1
-  origversion: 1.14.1-2
+  origversion: 1.14.1-4
   status: outdated
   summary: Command-line client for web sockets, like netcat/curl/socat for ws://
   licenses:
@@ -366,6 +351,30 @@
     - brightone@protonmail.com
   licenses:
     - MIT
+- repo: nix_stable_25_05
+  srcname: websocat
+  visiblename: websocat
+  version: 1.14.0
+  origversion: null
+  status: outdated
+  summary: Command-line client for WebSockets (like netcat/socat)
+  maintainers:
+    - aseipp@pobox.com
+    - brightone@protonmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: websocat
+  visiblename: websocat
+  version: 1.14.0
+  origversion: null
+  status: outdated
+  summary: Command-line client for WebSockets (like netcat/socat)
+  maintainers:
+    - aseipp@pobox.com
+    - brightone@protonmail.com
+  licenses:
+    - MIT
 - repo: nix_stable_26_05
   srcname: websocat
   visiblename: websocat
@@ -408,15 +417,6 @@
   status: outdated
   licenses:
     - MIT AND unknown
-- repo: scoop
-  subrepo: main
-  binname: websocat
-  visiblename: websocat
-  version: 1.14.2
-  origversion: null
-  status: newest
-  licenses:
-    - MIT
 - repo: termux
   srcname: websocat
   binname: websocat
